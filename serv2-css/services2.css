@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+*, body, html, .navbar-brand{
+    margin: 0%;
+    margin-top: 0%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.twenty{
+    font-size: 21px;
+}
+.eight{
+    font-size: 18px;
+}
+.sixt{
+    font-size:16px;
+}
+.mb-n5{
+    margin-bottom: -0.3%;
+}
+.bc{
+    color: #1F2B6C !important;
+}
+
+.lc{
+    color: #159EEC !important;
+}
+.kc{
+    color: #BFD2F8 !important;
+}
+.bgg{
+    background-color: #1F2B6C !important;
+}
+
+.bg{
+    background-color:  #BFD2F8;!important ;
+}
+.fir{
+    background-image: url('../serv2-img/back2 - Copy.png');
+    background-size:  cover;
+    background-position: 80%;
+}
+
+.jj{
+    background-image: url("../img/doc2.png");
+}
+p{
+    font-family: 'work sans'sans-serif;
+}
+
+.ys{
+    font-family: 'Yeseva One', cursive;
+}
+
+ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+.forn{
+    height: 70% !important;
+}
+
+.lk{
+    background-image: url('../serv2-img/Rectangle\ 13.svg ');
+    background-size: 96%;
+}
+
+.mk{
+    background-image: url('../serv2-img/Rectangle 14.svg');
+    background-size:96%;  
+}
+.first-line {
+    border-bottom: #bfd2f8 solid 10px;
+    width: 305.7px;
+    height: 8px;
+  }
+  
+  .second-line {
+      margin-bottom: -10px;
+    height: 8px;
+    width: 837.2px;
+    border-bottom: #1f2b6c solid 10px;
+  }
+  
+  .third-line {
+    height: 4px;
+    width: 297.076614px;
+    border-bottom: 10px solid #159eec;
+    margin-bottom: -10%;
+  }
