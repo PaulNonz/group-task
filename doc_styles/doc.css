@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+*, body, html, .navbar-brand{
+    margin: 0%;
+    margin-top: 0%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.px-55{
+    padding-left: 5.5%!important;
+    padding-right: 5.5% !important;
+}
+.pe-55{ 
+    padding-right: 36% !important;
+}
+p{
+    font-family: 'work sans'sans-serif;
+}
+.social {
+    width: 70%;
+    margin: 0 auto;
+}
+div img{
+    width: 100%;
+}
+.social img {
+    padding: 5px;
+    border-radius: 50%;
+}
+.nb{
+    margin-bottom: -0.2rem !important;
+}
+.ttlc{
+   color:#159EEC !important;
+}
+.tlc{
+    color: #BFD2F8 !important;
+}
+.tdc{
+    color: #1F2B6C !important;
+}
+.lc{
+    background-color: #BFD2F8 !important;
+}
+.dc{
+    background-color: #1F2B6C !important;
+}
+.sft{
+    font-family: 'work sans'sans-serif !important;
+}
+.bft{ 
+    font-family: 'Yeseva One', cursive !important;
+}
+
+.pa p {
+    font-size: 20px;
+    margin: 0 auto;
+}
+.first-line {
+    border-bottom: #bfd2f8 solid 10px;
+    width: 305.7px;
+    height: 8px;
+  }
+  .container.div img{}
+  .second-line {
+      margin-bottom: -10px;
+    height: 8px;
+    width: 837.2px;
+    border-bottom: #1f2b6c solid 10px;
+  }
+  
+  .third-line {
+    height: 4px;
+    width: 297.076614px;
+    border-bottom: 10px solid #159eec;
+    margin-bottom: -10%;
+  }
+.hh{
+    background-image: url("../doc_images/Blackdoctors\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+.twenty{
+    font-size: 21px;
+}
+.eight{
+    font-size: 18px;
+}
+.sixt{
+    font-size:16px;
+}
+.doc-pic {
+    min-height: 120px;
+    min-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.mk{
+    margin-top: -3.6rem;
+}
+.reco{
+    background-image: url('../doc_images/reco.png');
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mc{
+    margin-left:40%;
+    width: auto%;
+    height: 0.2rem!important;
+    margin-top: -2rem;
+}
+.lii{
+    background-color:#BFD2F8 ;
+    height: 0.2rem;
+    width: 20%;
+}
+.j{
+    height: 636px;
+}
+.lk{
+    background-image: url('../doc_images/Rectangle\ 13.svg');
+    background-size: 96%;
+}
+
+.mk{
+    background-image: url('../doc_images/Rectangle\ 14.svg');
+    background-size: 96%; 
+}
+.lc{
+    color: #159EEC !important;
+}
+/* .doc-pic h3 {
+    display: flex;
+    margin-left: 7em;
+    align-self: center;
+} */
+
