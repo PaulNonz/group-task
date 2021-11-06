@@ -1,0 +1,79 @@
+.first-section {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/doctors-images/Rectangle\ 4.png), url(../images/doctors-images/Blackdoctors\ 1.jpg );
+    height: 43vh;
+}
+
+.fot {
+    font-family: Yeseva One;
+    color: #1F2B6C;
+}
+
+.fot-4 {
+    font-family: Yeseva One;
+    color: rgb(108, 192, 223);
+}
+
+.first-img {
+    width: 8%;
+}
+
+.back {
+    background-color: rgb(108, 192, 223);
+}
+
+.fot-2 {
+    font-family: Work Sans;
+}
+
+.fot-3 {
+    color: rgb(108, 192, 223);
+}
+
+.text-first-section p {
+    color: blue;
+}
+
+.text-first-section h3 {
+    color: #1F2B6C;
+}
+
+.first-section-sub-section {
+    height: 1.5vh;
+}
+
+.text-div {
+    background-color: rgb(103, 209, 223);
+}
+
+.third-section {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../images/doctors-images/Rectangle\ 52.png), url(../images/doctors-images/Rectangle\ 53.png );
+}
+
+.third-section p {
+    width: 50%;
+}
+
+.txt {
+    font-size: 0.8rem;
+}
+
+.last-image {
+    width: 100%;
+    height: 200px;
+}
+
+@media(max-width: 768px) {
+    .last-image {
+        width: auto;
+    }
+    .last {
+        display: flex;
+        flex-direction: column;
+    }
+}

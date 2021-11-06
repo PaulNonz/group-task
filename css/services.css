@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.sub-head {
+  background-image: url(../images/hero-bg.png);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.text {
+  top: 0;
+  left: 80rem;
+  color: #159eec !important;
+}
+
+.sub-head .text h6 {
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: #1f2b6c;
+}
+.sub-head .text h1 {
+  font-family: 'Yeseva One', cursive;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 55px;
+  color: #1f2b6c;
+}
+
+.first-line {
+  border-bottom: #bfd2f8 solid 10px;
+  width: 305.7px;
+  height: 8px;
+}
+
+.second-line {
+  height: 8px;
+  width: 837.2px;
+  border-bottom: #1f2b6c solid 10px;
+}
+
+.third-line {
+  height: 8px;
+  width: 297.076614px;
+  border-bottom: 10px solid #159eec;
+}
+
+.bandage {
+  position: absolute;
+  top: 36.5%;
+  right: 0;
+}
+
+.font {
+  font-family: 'Work Sans', sans-serif;
+}
+.font-yeseva {
+  font-family: 'Yeseva One', cursive !important;
+}
+.card-color {
+  color: #1f2b6c;
+}
+.link-color {
+  color: #159eec;
+}
+.getInTouch {
+  font-weight: 700;
+  line-height: 21.11px;
+  text-align: center;
+}
+.contact-color {
+  background-color: #bfd2f8;
+  color: #1f2b6c;
+}
+.contact-color2 {
+  background-color: #1f2b6c;
+  color: #bfd2f8;
+}
+.emergency-color {
+  font-weight: 800;
+  width: 113px;
+  height: 21px;
+  font-size: 18px;
+}

@@ -1,0 +1,355 @@
+.four-content{
+        margin: 30px 0;
+}
+.contact-map{
+
+        border: 2px solid red;
+<<<<<<< HEAD
+        width: 991px;
+=======
+        width: 992px;
+>>>>>>> 2f296b37c9e3faeb7c34b758b9ac44aa98c4cffb
+        height: 450px;
+}
+.xdx{
+    font-family: work sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #1F2B6C;
+}
+.xxx{
+    font-family: Yeseva One;
+    font-weight: normal;
+    font-size: 48px;
+    color: #1F2B6C;
+    border-radius: 20px solid black;
+}
+.contact-form h3{
+        font-family: Work Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 21px;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: rgba(21, 158, 236, 1);
+}
+.contact-form h1{
+        font-family: Yeseva One;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 32px;
+        line-height: 37px;
+        color: rgba(31, 43, 108, 1);
+}
+.contact-subject{
+        height: 50px;
+        
+}
+.home{
+    background-image: url(../img/reca.png);
+    background-size: cover;
+   }
+ 
+
+.subject-height{
+    height: 50px;
+    width: 90%;
+    width: 93.5%;
+}
+@media (min-width: 620px){
+
+    .no-display{
+        display: block;
+    }
+
+    .more-space{
+        width: 100%;
+        padding-bottom: 5px;
+    }
+    .small-cards{
+        display: none;
+    }
+
+    .second-content h3{
+        width: 100%;
+    }
+
+    .second-content p{
+        width: 70%;
+    }
+
+    .overlap{
+        display: block;
+    }
+
+    .first{
+        background-color: #e6e9e9;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        background-position: 80% 30%;
+        padding-top: 7em;
+        height: 130vh;
+    }
+
+    .circle-bg1{
+        top: -304px;
+        left: -385px;
+    }
+
+    .circle-bg2{
+        top: 175px;
+        left: 505px;
+        /* clip: rect(0px, 170px, 180px, 0px); */
+    }
+
+    .appointment{
+        visibility:visible;
+        background-color: #1F2B6C;
+        width: 30%;
+    }
+
+    .set-bg{
+        background-color: #1F2B6C;
+        border-radius: 0 0 0 0;
+    }
+
+    .col-5-title{
+        font-size: 18px;
+    }
+
+    .label{
+        background-color: #159EEC;
+        width: 11px;
+        height: 10px;
+    }
+
+    .lab{
+        width: 15px;
+    }
+
+    .labb{
+        width: 15px;
+    }
+
+    .label-text{
+        font-size: 13px;
+    }
+
+    .col-5-text{
+        font-size: 12px;
+    }
+
+    .underline .first-line{
+        width: 50%;
+    }
+
+    .underline .second-line{
+        width: 70%;
+    }
+
+    .underline .third-line{
+        width: 40%;
+    }
+
+    .space{
+        padding-bottom: 5.3em;
+    }
+    .underline{
+        margin-top: -5px;
+    }
+
+
+    .appointments{
+        margin-top: -28px;
+        z-index: 1;
+    }
+
+    .appointment{
+        visibility:visible;
+        background-color: #1F2B6C;
+        width: 30%;
+    }
+
+    .dark-blue-bg{
+        background-color: #BFD2F8;
+        color: #1F2B6C !important;
+    }
+
+    .appoint-img{
+        width: 10%;
+    }
+
+    .appoint-text{
+        color: #BFD2F8;
+        font-size: 12px;
+    }
+
+    .blue-bg{
+        background-color: #159EEC;
+        color: #BFD2F8;
+    }
+
+    .second-content{
+        padding-top: 6em !important;
+    }
+
+    /* .second-img{
+        
+    } */
+
+    .first-line{
+        background-color: #BFD2F8;
+        height: 8px;
+        width: 200px;
+    }
+
+    .second-line{
+        background-color: #1F2B6C;
+        height: 8px;
+        width: 500px;
+    }
+    
+    .third-line{
+        background-color: #159EEC;
+        height: 8px;
+        width: 160px;
+    }
+    
+    .vector-bg{
+        background-color: #1F2B6C;
+    }
+
+    .five::before{
+        content: "";
+<<<<<<< HEAD
+        /* background-image: url(/img/Rectangle\ 33.jpg); */
+=======
+        background-image: url(/img/Rectangle\ 33.jpg);
+>>>>>>> 2f296b37c9e3faeb7c34b758b9ac44aa98c4cffb
+        background-repeat: no-repeat;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        opacity: 0.2;
+        position: absolute;
+        height: 970px;
+    }
+
+    .left-border{
+        border-radius: 5px 0 0 0;
+    }
+
+    .right-border{
+        border-radius: 0 5px 0 0;
+    }
+
+    .message-height{
+        width: 93% !important;
+        height: 220px;
+    }
+
+    .five-content{
+        margin-top: 5em;
+    }
+
+    /* .list-card-img{
+      
+    } */
+
+    .submit{
+        width: 93% !important;
+        margin: 0 auto;
+    }
+
+    .fill{
+        margin-top: 0;
+    }
+    .column{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .equal{
+        margin-top: 1px;
+    }
+
+   .left-space{
+       padding-left:1px !important;
+   }
+
+   .move-left{
+       position:unset !important;
+    top: 0px;
+    left: 250px;
+    height: 500px !important;
+    opacity: 1;
+}
+
+    .move-right{
+        position: unset !important;
+        opacity: 1;
+    }
+
+    .bots{
+        margin-top: -3em !important;
+    }
+
+    .svg-size2{
+        align-self: center;
+    }
+
+    .botts{
+        margin-top:  1em !important;
+    }
+}
+    .five::before{
+        content: "";
+        background-image: url(/img/Rectangle\ 33.jpg);
+        background-repeat: no-repeat;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        opacity: 0.2;
+        position: absolute;
+        height: 970px;
+    }
+
+    .left-border{
+        border-radius: 5px 0 0 0;
+    }
+
+    .right-border{
+        border-radius: 0 5px 0 0;
+    }
+
+    .message-height{
+        width: 93% !important;
+        height: 220px;
+    }
+
+    .five-content{
+        margin-top: 5em;
+    }
+
+    /* .list-card-img{
+      
+    } */
+
+    .submit{
+        width: 93% !important;
+        margin: 0 auto;
+<<<<<<< HEAD
+    }
+
+.map{
+    margin: auto;
+    align-content: center;
+    text-align: center;
+}
+=======
+    }
+>>>>>>> 2f296b37c9e3faeb7c34b758b9ac44aa98c4cffb
